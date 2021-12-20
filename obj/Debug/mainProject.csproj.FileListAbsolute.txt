@@ -1,0 +1,10 @@
+C:\Users\nikol\OneDrive\Documents\School\RTCProject\RTC\bin\Debug\template.exe.config
+C:\Users\nikol\OneDrive\Documents\School\RTCProject\RTC\bin\Debug\template.exe
+C:\Users\nikol\OneDrive\Documents\School\RTCProject\RTC\bin\Debug\template.pdb
+C:\Users\nikol\OneDrive\Documents\School\RTCProject\RTC\bin\Debug\OpenTK.dll
+C:\Users\nikol\OneDrive\Documents\School\RTCProject\RTC\bin\Debug\OpenTK.dll.config
+C:\Users\nikol\OneDrive\Documents\School\RTCProject\RTC\obj\Debug\mainProject.csproj.AssemblyReference.cache
+C:\Users\nikol\OneDrive\Documents\School\RTCProject\RTC\obj\Debug\mainProject.csproj.CoreCompileInputs.cache
+C:\Users\nikol\OneDrive\Documents\School\RTCProject\RTC\obj\Debug\mainProject.csproj.CopyComplete
+C:\Users\nikol\OneDrive\Documents\School\RTCProject\RTC\obj\Debug\template.exe
+C:\Users\nikol\OneDrive\Documents\School\RTCProject\RTC\obj\Debug\template.pdb
